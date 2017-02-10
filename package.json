@@ -1,0 +1,20 @@
+{
+  "name": "Development",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/udit04/Development.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/udit04/Development/issues"
+  },
+  "homepage": "https://github.com/udit04/Development#readme"
+}
