@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/udit04/Development/issues"
   },
-  "homepage": "https://github.com/udit04/Development#readme"
+  "homepage": "https://github.com/udit04/Development#readme",
+  "dependencies": {
+    "chai": "^3.5.0"
+  }
 }
