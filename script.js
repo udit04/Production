@@ -1,8 +1,8 @@
 let script = {};
 script.hello = function (cb){
-let result ="Hello World test3"; 
+let result ="Hello World test37"; 
 cb(result);
 };
 
 
-module.exports = script7
+module.exports = script
