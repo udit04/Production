@@ -1,6 +1,6 @@
 let script = {};
 script.hello = function (cb){
-let result ="Hello World test35"; 
+let result ="Hello World test36"; 
 cb(result);
 };
 
